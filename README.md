@@ -1,0 +1,1 @@
+yolo based workout tracking install python and uv it is simple to execute and fun
